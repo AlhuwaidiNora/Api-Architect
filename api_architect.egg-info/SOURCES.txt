@@ -1,0 +1,15 @@
+README.md
+setup.py
+api_architect.egg-info/PKG-INFO
+api_architect.egg-info/SOURCES.txt
+api_architect.egg-info/dependency_links.txt
+api_architect.egg-info/requires.txt
+api_architect.egg-info/top_level.txt
+src/__init__.py
+src/main.py
+src/api/__init__.py
+src/api/endpoints/__init__.py
+src/api/endpoints/generated_endpoints.py
+tests/__init__.py
+tests/conftest.py
+tests/test_api.py
